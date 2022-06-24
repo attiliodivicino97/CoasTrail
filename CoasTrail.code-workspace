@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\CoasTrail\\Assets.xcassets"
+		},
+		{
+			"path": "..\\..\\CoasTrail\\Coordinators"
+		},
+		{
+			"path": "..\\..\\CoasTrail\\Extensions"
+		},
+		{
+			"path": "..\\..\\CoasTrail\\Preview Content"
+		},
+		{
+			"path": "..\\..\\CoasTrail\\SearchBar"
+		}
+	],
+	"settings": {}
+}
