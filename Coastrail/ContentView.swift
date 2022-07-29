@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  riprovaCoast
+//  CoasTrail
 //
 //  Created by Attilio Di Vicino on 24/10/2020.
 //
@@ -38,8 +38,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
-
-// COSE DA FARE
-
-// Front end generale

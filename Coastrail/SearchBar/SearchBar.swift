@@ -1,6 +1,6 @@
 //
 //  SearchBar.swift
-//  riprovaCoast
+//  CoasTrail
 //
 //  Created by Attilio Di Vicino on 28/10/2020.
 //

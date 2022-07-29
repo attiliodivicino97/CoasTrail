@@ -1,6 +1,6 @@
 //
 //  PageViewController.swift
-//  riprovaCoast
+//  CoasTrail
 //
 //  Created by Attilio Di Vicino on 26/10/2020.
 //
